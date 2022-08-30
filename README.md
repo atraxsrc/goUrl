@@ -8,7 +8,7 @@ This example shows the main functionalities of this package:
 package main
 
 import (
-	"github.com/atraxsrc/goUrl"
+	"github.com/atraxsrc/gourl"
 )
 
 func main() {
