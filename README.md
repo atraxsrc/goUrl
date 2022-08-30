@@ -1,5 +1,5 @@
 # goUrl
-A simple interface for urlscan.io, written in Go.
+A simple interface for [urlscan.io](https://urlscan.io), written in Go.
 
 ## Usage
 This example shows the main functionalities of this package:
