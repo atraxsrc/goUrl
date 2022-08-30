@@ -31,7 +31,7 @@ func main() {
 	)
 
     // Once the job is completed we can extract screenshots
-	urlscango.GetScreenshot(
+	gourl.GetScreenshot(
 		r.UUID,
 		"google.png",
 		apiKey,
